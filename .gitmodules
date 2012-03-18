@@ -1,0 +1,6 @@
+[submodule "sources/RWThemeKit"]
+	path = sources/RWThemeKit
+	url = https://github.com/realmacsoftware/RWThemeKit.git
+[submodule "sources/html5-boilerplate"]
+	path = sources/html5-boilerplate
+	url = https://github.com/h5bp/html5-boilerplate.git
